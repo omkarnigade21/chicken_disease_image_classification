@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "chicken_disease_image_classification"
-AUTHOR_USER_NAME = "omkarnigade21"
-SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "omkarnigadedeshmukh@gmail.com"
+REPO_NAME = "chicken_disease_image_classification"    # Github repo name
+AUTHOR_USER_NAME = "omkarnigade21"                    # Github user name
+SRC_REPO = "cnnClassifier"                         # Project name in templete.py
+AUTHOR_EMAIL = "omkarnigadedeshmukh@gmail.com"     # Reg email at github
 
 
 setuptools.setup(
